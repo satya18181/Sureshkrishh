@@ -1,4 +1,5 @@
 ### Hello there 👋
+
 <img align= "right" alt="GIF" width="500px" height="280px" src="https://github.com/Sureshkrishh/Sureshkrishh/blob/main/Images/profile.gif"/>
 
 - 🔭 I’m currently working on Data science projects.
@@ -9,6 +10,7 @@
 - 💭 Quote: PREDICTING THE FUTURE ISN’T MAGIC, IT’S ARTIFICIAL INTELLIGENCE 
 - 🥅 2022 Goals: To be more productive and successful 
 - ⚡ Fun fact: I'm graduate mechanical engineer
+
 <br>
 <img height="30" src="https://img.shields.io/badge/Languages and  tools- 🧮-lightblue.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
