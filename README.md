@@ -1,5 +1,5 @@
 ### Hello there 👋
-<img align="right" alt="GIF" width="400px" height="220px" src="https://github.com/Sureshkrishh/Sureshkrishh/blob/main/Images/profile.gif"/>
+<img alt="GIF" width="500px" height="280px" src="https://github.com/Sureshkrishh/Sureshkrishh/blob/main/Images/profile.gif"/>
 
 - 🔭 I’m currently working on Data science projects.
 - 🌱 I’m currently learning RNN.
