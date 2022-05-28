@@ -39,7 +39,7 @@
     
 <details>
   <summary>Most used languages ❤️ </summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sureshkrishh&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="shrutijain0" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sureshkrishh&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="Sureshkrishh" /></p>
 </details> 
     
 <br>
@@ -51,7 +51,7 @@ Show ❤️ By Starring My <a href='https://github.com/Sureshkrishh?tab=reposito
 
 <h4 align="left">
     <img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px">Connect with me &nbsp; 👉 &nbsp;  
-        <a href="https://www.linkedin.com/in/suresh-krishna-k/">
+        <a href="https://www.linkedin.com/in/sureshkrishh/">
         <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Sureshkrishna linkedin" width="24px" />
     </a>
 </h4> 
