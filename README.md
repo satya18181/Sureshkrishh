@@ -19,7 +19,7 @@
 <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
 <img alt="jupyter"  src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"width="50" height="40" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/><br>
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/><br>
     
 <br>
 <img height="27" src="https://img.shields.io/badge/Suresh Krishna's GitHub Status- 📈-lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
