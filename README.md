@@ -36,12 +36,6 @@
 </p>
 </details>
     
-<details>
-  <summary>Most used languages ❤️ </summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sureshkrishh&title_color=FF69B4&custom_title=Most Used Languages :D &layout=compact&theme=highcontrast&langs_count=10" alt="Sureshkrishh" /></p>
-</details> 
-    
-<br>
 <h4 align="left">
 Show ❤️ By Starring My <a href='https://github.com/Sureshkrishh?tab=repositories'>
 <img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=Sureshkrishh&logoColor=blue" />
