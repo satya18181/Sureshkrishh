@@ -22,9 +22,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/><br>
     
 <br>
-<img height="27" src="https://img.shields.io/badge/Suresh Krishna's GitHub Status --lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sureshkrishh&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=HOLA! 👏&layout=compact" alt="Suresh Krishna"/>
+<img height="27" src="https://img.shields.io/badge/Suresh Krishna's GitHub Status- 📈-lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<p>
 </p>
 <p>&nbsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sureshkrishh&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
